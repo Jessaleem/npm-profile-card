@@ -4,6 +4,7 @@
   "description": "A personal card for Jessica Martinez",
   "main": "/bin/card.js",
   "scripts": {
+    "test": "echo \"pending...\"",
     "lint": "eslint --ext .js, bin/card.js",
     "lint:fix": "eslint --ext .js, bin/card.js --fix",
     "release": "np"
