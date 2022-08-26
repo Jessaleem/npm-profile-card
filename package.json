@@ -5,7 +5,8 @@
   "main": "/bin/card.js",
   "scripts": {
     "lint": "eslint --ext .js, bin/card.js",
-    "lint:fix": "eslint --ext .js, bin/card.js --fix"
+    "lint:fix": "eslint --ext .js, bin/card.js --fix",
+    "release": "np"
   },
   "repository": {
     "type": "git",
