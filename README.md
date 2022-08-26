@@ -3,7 +3,7 @@ My npm card 😎
 
 Steps
 
-1. You can fork in the repo of Bxtard or just go creating your files.
+1. You can fork in the repo of Jessaleem or just go creating your files.
 
 ```
 # Create new folder
